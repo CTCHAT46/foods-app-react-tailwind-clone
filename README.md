@@ -1,5 +1,5 @@
-![food 1](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/75757572-93ee-48fa-a34f-4f550b738ccc)
-![food 2](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/fee6e7ff-b99f-4dd4-baee-5dc900431591)
+![food 1](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/673840d1-f938-4973-a8f5-d16802ef194e)
+![food 2](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/7a122bc8-2251-4ce8-bdfe-94b4e94d8c7a)
 ![food 3](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/89dee35e-852a-4c58-8da9-9fb4dea5be34)
 ![food 4](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/96f20097-b487-4a77-852c-3e756359be71)
 ![food 5](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/35dfb6bf-10bd-45fa-b2fe-48a719019424)
