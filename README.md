@@ -1,3 +1,12 @@
+![food 1](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/75757572-93ee-48fa-a34f-4f550b738ccc)
+![food 2](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/fee6e7ff-b99f-4dd4-baee-5dc900431591)
+![food 3](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/89dee35e-852a-4c58-8da9-9fb4dea5be34)
+![food 4](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/96f20097-b487-4a77-852c-3e756359be71)
+![food 5](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/35dfb6bf-10bd-45fa-b2fe-48a719019424)
+![food 6](https://github.com/CTCHAT46/foods-app-react-tailwind-clone/assets/132136945/d297e5e8-84c9-4132-97ae-5a3b8c61e63d)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
