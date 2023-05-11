@@ -51,15 +51,15 @@ const Navbar = () => {
                     <ul className='flex flex-col p-4'>
                         <li className='texy-xl py-4 flex'><FaTruck size={25} className='mr-4' />
                             Order </li>
-                        <li className='texy-xl py-4 flex'><AiFillHeart size={25} className='mr-4' /> Favorites </li>
-                        <li className='texy-xl py-4 flex'><FaWallet size={25} className='mr-4' /> Wallet </li>
-                        <li className='texy-xl py-4 flex'><MdHelp size={25} className='mr-4' />
+                        <li className='text-xl py-4 flex'><AiFillHeart size={25} className='mr-4' /> Favorites </li>
+                        <li className='text-xl py-4 flex'><FaWallet size={25} className='mr-4' /> Wallet </li>
+                        <li className='text-xl py-4 flex'><MdHelp size={25} className='mr-4' />
                             Help </li>
-                        <li className='texy-xl py-4 flex'><AiFillTag size={25} className='mr-4' />
+                        <li className='text-xl py-4 flex'><AiFillTag size={25} className='mr-4' />
                             Promotions </li>
-                        <li className='texy-xl py-4 flex'><FaCloudDownloadAlt size={25} className='mr-4' />
+                        <li className='text-xl py-4 flex'><FaCloudDownloadAlt size={25} className='mr-4' />
                             Best One </li>
-                        <li className='texy-xl py-4 flex'><FaUserFriends size={25} className='mr-4' />
+                        <li className='text-xl py-4 flex'><FaUserFriends size={25} className='mr-4' />
                             Invite Friends </li>
                     </ul>
                 </nav>
